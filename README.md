@@ -1,9 +1,6 @@
 # Ex.05 Design a Website for Server Side Processing
-<<<<<<< HEAD
 ## Date:04/10/2025
 =======
-## Date:
->>>>>>> de032fb359ea221fd8192d7db1bb2cd44c96b6f1
 
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
@@ -36,8 +33,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-<<<<<<< HEAD
-~~~
+```
 math.html
 
 <!DOCTYPE html>
@@ -139,24 +135,31 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.udhay),
 ]
+```
 
 ## SERVER SIDE PROCESSING:
+<img width="1328" height="866" alt="Screenshot 2025-10-04 222603" src="https://github.com/user-attachments/assets/3a8372ef-30c7-4ba2-ba7b-f5272ac6d3c8" />
 
-udhay/udhay/Screenshot 2025-10-04 222603.png
+
 
 
 ## HOMEPAGE:
-udhay/udhay/Screenshot 2025-10-04 222444.png
-udhay/udhay/Screenshot 2025-10-04 222514.png
-udhay/udhay/Screenshot 2025-10-04 222531.png
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 222444" src="https://github.com/user-attachments/assets/ba64071a-69b8-41fc-893b-4cb343a96682" />
+
+
+
+
+##OUTPUT:
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 222531" src="https://github.com/user-attachments/assets/2ee3f643-9e7f-42f0-98cc-b57d83867d5c" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 222514" src="https://github.com/user-attachments/assets/297ed9d6-3990-4387-9ebc-0455990afaad" />
+
+
 =======
 
 
-## SERVER SIDE PROCESSING:
 
 
-## HOMEPAGE:
->>>>>>> de032fb359ea221fd8192d7db1bb2cd44c96b6f1
 
 
 ## RESULT:
